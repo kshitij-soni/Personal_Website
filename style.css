@@ -1,0 +1,273 @@
+#love {
+    font-size: 25px;
+    margin-top: -20px;
+}
+
+#Myself {
+    width: 175px;
+    margin-top: 50px;
+    border-radius:50%;
+    border: chocolate;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#Homepage {
+    color: white;
+    opacity: 0.99;
+    background: linear-gradient(blue 0%, green 100%);
+    display: table;
+    width: 100%;
+    height: 770px;
+    z-index: 10;
+}
+
+.Section-inner {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: auto;
+
+
+}
+
+.Menu {
+    width: 100%;
+    background-color: aliceblue;
+    cursor: pointer;
+    position: fixed;
+    margin-top: 0px;
+    z-index: 11;
+    text-align: right;
+}
+
+.Same {
+    padding-left:2px;
+    padding-right: 2px;
+    font-size: 20px;
+    display: inline;
+    margin: auto;
+}
+
+.Same :hover {
+    background-color: chocolate;
+    font-size: 22px;
+}
+
+.Same a {
+    color: crimson;
+}
+
+.Margin {
+    margin-top: 60px;
+    font-size: 40px;
+    text-align: center;
+    background-color: yellow;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#MyStart {
+    height: 770px;
+    text-align: left;
+}
+
+#collage {
+    
+    height: 350px;
+    width: 550px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+
+}
+
+.mystart {
+    width: 60%;
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.container {
+    text-align: center;
+}
+
+#My-Carousel {
+    background-color: red;
+}
+
+#robin {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+
+#Tailorbird {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#kingfisher {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#babbler {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#Ashyprinia {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#cormorant {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#Crow {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#flamingo {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#egret {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#Heron {
+    height: 400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#Long-TailedShrike{
+    height:400px;
+    width: auto;    
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#MarshHarrier{
+    height:400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#Mongoose{
+    height:400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#p-stork{
+  height:400px;
+    width: auto;  
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#ohg-thrush{
+     height:400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#rw-bulbul{
+    height:400px;
+    width: auto;
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+#we-bulbul{
+    height:400px;
+    width: auto; 
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+}
+.rightside {
+    width: 400px;
+    float: right;
+    margin-right: 50px;
+    border: brown;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.carousel-content {
+    font-size: 20px;
+    border: black;
+    border-width: 6px;
+    border-style: solid;
+    color: black;
+    width: 20%;
+    text-align: center;
+}
+#Contact{
+    height: 790px;
+    background-color: firebrick;
+    text-align: center;
+}
+#Heading{
+    color: white;
+    font-size: 50px;
+    
+}
+#Contact iframe{
+    width: 100%;
+    height:75%; 
+}
+#Email{
+    text-align: left;
+    font-size: 25px;
+}
+.carousel-inner{
+    background-color: yellowgreen;
+}
